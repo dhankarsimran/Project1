@@ -1,4 +1,4 @@
 # Project1
 # Tribute Page for renowned personality DR. NORMAN BORLAUG
 (Made with CSS & HTML only)
-![tribute-page-main-image](https://user-images.githubusercontent.com/83290371/129477231-bcdaf8a8-981e-47c1-9cd3-5ba3f908df10.jpg)
+![Screenshot (96)](https://user-images.githubusercontent.com/83290371/129477628-474ae499-c504-4381-9edd-2f6c68031a0d.png)
